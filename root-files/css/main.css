@@ -51,6 +51,7 @@ header p{
 
 #manifesto{
     background-color: #FFFFFF;
+    display: flex;
     height: auto;
     margin: 0 auto;
 }
@@ -79,6 +80,7 @@ header p{
 
 #shares{
     background-color: #000000;
+    display: flex;
     height: auto;
     margin: 0 auto;
 }
@@ -107,6 +109,7 @@ header p{
 
 #about{
     background-color: #FFFFFF;
+    display: flex;
     height: auto;
     margin: 0 auto;
 }
@@ -135,6 +138,7 @@ header p{
 
 #ground-floor{
     background-color: #000000;
+    display: flex;
     height: auto;
     margin: 0 auto;
 }
@@ -163,6 +167,7 @@ header p{
 
 #faq{
     background-color: #FFFFFF;
+    display: flex;
     height: auto;
     margin: 0 auto;
 }
@@ -202,6 +207,7 @@ header p{
 
 #contact{
     background-color: #000000;
+    display: flex;
     height: auto;
 }
 
