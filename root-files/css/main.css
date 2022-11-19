@@ -27,13 +27,18 @@ body{
 
 /***** HEADER *****/
 
-header{
+header h1{
     background-image: url("../img/LDD-logo.png");
     background-color: #000000;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
     height: 500px;
+}
+
+header p{
+    display: flex;
+    justify-content: center;
 }
 
 header a{
@@ -78,6 +83,7 @@ header a{
     display: flex;
     height: auto;
     margin: 0 auto;
+    clear: both;
 }
 
 #manifesto h3{
